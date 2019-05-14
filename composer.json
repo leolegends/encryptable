@@ -1,12 +1,12 @@
 {
     "name": "leolegends/modelencryptable",
     "description": ":description",
-    "license": "license",
+    "license": "MI",
     "authors": [
         {
-            "name": "author name",
-            "email": "author email",
-            "homepage": "author homepage"
+            "name": "Leonardo ribeiro",
+            "email": "lviniciusribeiro@yahoo.com.br",
+            "homepage": "https://lrtitecnologia.wordpress.com"
         }
     ],
     "homepage": "https://github.com/corebiz/modelencryptable",
