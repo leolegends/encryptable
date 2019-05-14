@@ -1,6 +1,6 @@
 <?php
 
-namespace Corebiz\ModelEncryptable\Facades;
+namespace leolegends\ModelEncryptable\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

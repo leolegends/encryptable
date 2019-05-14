@@ -22,21 +22,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Corebiz\\ModelEncryptable\\": "src/"
+            "leolegends\\ModelEncryptable\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Corebiz\\ModelEncryptable\\Tests\\": "tests"
+            "leolegends\\ModelEncryptable\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Corebiz\\ModelEncryptable\\ModelEncryptableServiceProvider"
+                "leolegends\\ModelEncryptable\\ModelEncryptableServiceProvider"
             ],
             "aliases": {
-                "ModelEncryptable": "Corebiz\\ModelEncryptable\\Facades\\ModelEncryptable"
+                "ModelEncryptable": "leolegends\\ModelEncryptable\\Facades\\ModelEncryptable"
             }
         }
     }

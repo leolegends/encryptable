@@ -1,6 +1,6 @@
 <?php
 
-namespace Corebiz\ModelEncryptable;
+namespace leolegends\ModelEncryptable;
 
 class ModelEncryptable
 {

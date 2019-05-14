@@ -1,6 +1,6 @@
 <?php
 
-namespace Corebiz\ModelEncryptable\Traits;
+namespace leolegends\ModelEncryptable\Traits;
 
 
 use Illuminate\Support\Facades\Config;
